@@ -8,8 +8,8 @@ export default () => {
     return (
         <div className="c-app">
             <GameView />
-            {/* <LoginView /> */}
-            {/* <WelcomeView /> */}
+            <LoginView /> 
+            {/* <WelcomeView />  */}
             {/* <ChooseView /> */}
         </div>
     );
