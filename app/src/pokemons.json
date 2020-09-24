@@ -1,0 +1,1071 @@
+[
+    {
+        "originalId": 1,
+        "name": "Bulbizarre",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+        "moves": [
+            {
+                "originalId": 13,
+                "name": "Coupe-Vent",
+                "power": 8
+            },
+            {
+                "originalId": 15,
+                "name": "Coupe",
+                "power": 5
+            },
+            {
+                "originalId": 20,
+                "name": "Étreinte",
+                "power": 2
+            },
+            {
+                "originalId": 22,
+                "name": "Fouet Lianes",
+                "power": 5
+            }
+        ]
+    },
+    {
+        "originalId": 2,
+        "name": "Herbizarre",
+        "hp": 50,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+        "moves": [
+            {
+                "originalId": 13,
+                "name": "Coupe-Vent",
+                "power": 8
+            },
+            {
+                "originalId": 15,
+                "name": "Coupe",
+                "power": 5
+            },
+            {
+                "originalId": 20,
+                "name": "Étreinte",
+                "power": 2
+            },
+            {
+                "originalId": 30,
+                "name": "Lance-soleil",
+                "power": 6
+            }
+        ]
+    },
+    {
+        "originalId": 3,
+        "name": "Florizarre",
+        "hp": 50,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+        "moves": [
+            {
+                "originalId": 13,
+                "name": "Coupe-Vent",
+                "power": 8
+            },
+            {
+                "originalId": 15,
+                "name": "Coupe",
+                "power": 5
+            },
+            {
+                "originalId": 20,
+                "name": "Étreinte",
+                "power": 2
+            },
+            {
+                "originalId": 30,
+                "name": "Lance-soleil",
+                "power": 7
+            }
+        ]
+    },
+    {
+        "originalId": 4,
+        "name": "Salamèche",
+        "hp": 39,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+        "moves": [
+            {
+                "originalId": 5,
+                "name": "Ultimapoing",
+                "power": 8
+            },
+            {
+                "originalId": 7,
+                "name": "Poing de Feu",
+                "power": 8
+            },
+            {
+                "originalId": 9,
+                "name": "Poing-Éclair",
+                "power": 8
+            },
+            {
+                "originalId": 10,
+                "name": "Griffe",
+                "power": 4
+            }
+        ]
+    },
+    {
+        "originalId": 5,
+        "name": "Reptincel",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+        "moves": [
+            {
+                "originalId": 5,
+                "name": "Ultimapoing",
+                "power": 9
+            },
+            {
+                "originalId": 7,
+                "name": "Poing de Feu",
+                "power": 9
+            },
+            {
+                "originalId": 9,
+                "name": "Poing-Éclair",
+                "power": 9
+            },
+            {
+                "originalId": 10,
+                "name": "Griffe",
+                "power": 5
+            }
+        ]
+    },
+    {
+        "originalId": 6,
+        "name": "Dracaufeu",
+        "hp": 65,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+        "moves": [
+            {
+                "originalId": 5,
+                "name": "Ultimapoing",
+                "power": 9
+            },
+            {
+                "originalId": 7,
+                "name": "Poing de Feu",
+                "power": 9
+            },
+            {
+                "originalId": 9,
+                "name": "Poing-Éclair",
+                "power": 9
+            },
+            {
+                "originalId": 10,
+                "name": "Griffe",
+                "power": 5
+            }
+        ]
+    },
+    {
+        "originalId": 7,
+        "name": "Carapuce",
+        "hp": 44,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+        "moves": [
+            {
+                "originalId": 5,
+                "name": "Ultimapoing",
+                "power": 8
+            },
+            {
+                "originalId": 8,
+                "name": "Poing-Glace",
+                "power": 8
+            },
+            {
+                "originalId": 25,
+                "name": "Ultimawashi",
+                "power": 12
+            },
+            {
+                "originalId": 29,
+                "name": "Coup d’Boule",
+                "power": 7
+            }
+        ]
+    },
+    {
+        "originalId": 8,
+        "name": "Carabaffe",
+        "hp": 44,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+        "moves": [
+            {
+                "originalId": 5,
+                "name": "Ultimapoing",
+                "power": 8
+            },
+            {
+                "originalId": 8,
+                "name": "Poing-Glace",
+                "power": 8
+            },
+            {
+                "originalId": 25,
+                "name": "Ultimawashi",
+                "power": 12
+            },
+            {
+                "originalId": 29,
+                "name": "Coup d’Boule",
+                "power": 7
+            }
+        ]
+    },
+    {
+        "originalId": 9,
+        "name": "Tortank",
+        "hp": 44,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+        "moves": [
+            {
+                "originalId": 5,
+                "name": "Ultimapoing",
+                "power": 8
+            },
+            {
+                "originalId": 8,
+                "name": "Poing-Glace",
+                "power": 8
+            },
+            {
+                "originalId": 25,
+                "name": "Ultimawashi",
+                "power": 12
+            },
+            {
+                "originalId": 29,
+                "name": "Coup d’Boule",
+                "power": 7
+            }
+        ]
+    },
+    {
+        "originalId": 10,
+        "name": "Chenipan",
+        "hp": 44,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+    },
+    {
+        "originalId": 11,
+        "name": "Chrysacier",
+        "hp": 44,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+    },
+    {
+        "originalId": 12,
+        "name": "Papilusion",
+        "hp": 44,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+    },
+    {
+        "originalId": 13,
+        "name": "Aspicot",
+        "hp": 44,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+    },
+    {
+        "originalId": 14,
+        "name": "Coconfort",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+    },
+    {
+        "originalId": 15,
+        "name": "Dardargnan",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
+    },
+    {
+        "originalId": 16,
+        "name": "Roucool",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+    },
+    {
+        "originalId": 17,
+        "name": "Roucoups",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+    },
+    {
+        "originalId": 18,
+        "name": "Roucarnage",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+    },
+    {
+        "originalId": 19,
+        "name": "Rattata",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+    },
+    {
+        "originalId": 20,
+        "name": "Rattatac",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+    },
+    {
+        "originalId": 21,
+        "name": "Piafabec",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png"
+    },
+    {
+        "originalId": 22,
+        "name": "Rapasdepic",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+    },
+    {
+        "originalId": 23,
+        "name": "Abo",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+    },
+    {
+        "originalId": 24,
+        "name": "Arbok",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+    },
+    {
+        "originalId": 25,
+        "name": "Pikachu",
+        "hp": 35,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "moves": [
+            {
+                "originalId": 5,
+                "name": "Ultimapoing",
+                "power": 8
+            },
+            {
+                "originalId": 6,
+                "name": "Jackpot",
+                "power": 4
+            },
+            {
+                "originalId": 9,
+                "name": "Poing-Éclair",
+                "power": 8
+            },
+            {
+                "originalId": 21,
+                "name": "Souplesse",
+                "power": 8
+            }
+        ]
+    },
+    {
+        "originalId": 26,
+        "name": "Raichu",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+    },
+    {
+        "originalId": 27,
+        "name": "Sablette",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+    },
+    {
+        "originalId": 28,
+        "name": "Sablaireau",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+    },
+    {
+        "originalId": 29,
+        "name": "Nidoran",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png"
+    },
+    {
+        "originalId": 30,
+        "name": "Nidorina",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
+    },
+    {
+        "originalId": 31,
+        "name": "Nidoqueen",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
+    },
+    {
+        "originalId": 32,
+        "name": "Nidoran",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png"
+    },
+    {
+        "originalId": 33,
+        "name": "Nidorino",
+        "hp": 45,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png"
+    },
+    {
+        "originalId": 34,
+        "name": "Nidoking",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+    },
+    {
+        "originalId": 35,
+        "name": "Mélofée",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+    },
+    {
+        "originalId": 36,
+        "name": "Melodelfe",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
+    },
+    {
+        "originalId": 37,
+        "name": "Goupix",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png"
+    },
+    {
+        "originalId": 38,
+        "name": "Feunard",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+    },
+    {
+        "originalId": 39,
+        "name": "Rondoudou",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
+    },
+    {
+        "originalId": 40,
+        "name": "Grodoudou",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+    },
+    {
+        "originalId": 41,
+        "name": "Nosferapti",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png"
+    },
+    {
+        "originalId": 42,
+        "name": "Nosferalto",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+    },
+    {
+        "originalId": 43,
+        "name": "Mystherbe",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+    },
+    {
+        "originalId": 44,
+        "name": "Ortide",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+    },
+    {
+        "originalId": 45,
+        "name": "Rafflesia",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+    },
+    {
+        "originalId": 46,
+        "name": "Paras",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+    },
+    {
+        "originalId": 47,
+        "name": "Parasect",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+    },
+    {
+        "originalId": 48,
+        "name": "Mimitoss",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png"
+    },
+    {
+        "originalId": 49,
+        "name": "Aeromite",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+    },
+    {
+        "originalId": 50,
+        "name": "Taupiqueur",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png"
+    },
+    {
+        "originalId": 51,
+        "name": "Triopikeur",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+    },    
+    {
+        "originalId": 52,
+        "name": "Miaouss",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
+    },    
+    {
+        "originalId": 53,
+        "name": "Persian",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+    },    
+    {
+        "originalId": 54,
+        "name": "Psykokwak",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+    },    
+    {
+        "originalId": 55,
+        "name": "Akwakwak",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+    },    
+    {
+        "originalId": 56,
+        "name": "Ferosinge",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png"
+    },    
+    {
+        "originalId": 57,
+        "name": "Colossinge",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+    },    
+    {
+        "originalId": 58,
+        "name": "Caninos",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+    },    
+    {
+        "originalId": 59,
+        "name": "Arcanin",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+    },    
+    {
+        "originalId": 60,
+        "name": "Ptitard",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
+    },    
+    {
+        "originalId": 61,
+        "name": "Tetarte",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
+    },    
+    {
+        "originalId": 62,
+        "name": "Tartard",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
+    },
+    {
+        "originalId": 63,
+        "name": "Abra",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
+    },
+    {
+        "originalId": 64,
+        "name": "Kadabra",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+    },
+    {
+        "originalId": 65,
+        "name": "Alakazam",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+    },
+    {
+        "originalId": 66,
+        "name": "Machoc",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+    },
+    {
+        "originalId": 67,
+        "name": "Machopeur",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
+    },
+    {
+        "originalId": 68,
+        "name": "Mackogneur",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
+    },
+    {
+        "originalId": 69,
+        "name": "Chetiflor",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
+    },
+    {
+        "originalId": 70,
+        "name": "Boustiflor",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
+    },
+    {
+        "originalId": 71,
+        "name": "Empiflor",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+    },
+    {
+        "originalId": 72,
+        "name": "Tentacool",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
+    },
+    {
+        "originalId": 73,
+        "name": "Tentacruel",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+    },
+    {
+        "originalId": 74,
+        "name": "Racaillou",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png"
+    },
+    {
+        "originalId": 75,
+        "name": "Gravalanch",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png"
+    },
+    {
+        "originalId": 76,
+        "name": "Grolem",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+    },
+    {
+        "originalId": 77,
+        "name": "Ponyta",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
+    },
+    {
+        "originalId": 78,
+        "name": "Galopa",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
+    },
+    {
+        "originalId": 79,
+        "name": "Ramoloss",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
+    },
+    {
+        "originalId": 80,
+        "name": "Flagadoss",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+    },
+    {
+        "originalId": 81,
+        "name": "Magneti",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+    },
+    {
+        "originalId": 82,
+        "name": "Magnéton",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+    },
+    {
+        "originalId": 83,
+        "name": "Canarticho",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+    },
+    {
+        "originalId": 84,
+        "name": "Doduo",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png"
+    },
+    {
+        "originalId": 85,
+        "name": "Dodrio",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+    },
+    {
+        "originalId": 86,
+        "name": "Otaria",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
+    },
+    {
+        "originalId": 87,
+        "name": "Lamantine",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+    },
+    {
+        "originalId": 88,
+        "name": "Tadmorv",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png"
+    },
+    {
+        "originalId": 89,
+        "name": "Grotadmorv",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png"
+    },
+    {
+        "originalId": 90,
+        "name": "Kokiyas",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png"
+    },
+    {
+        "originalId": 91,
+        "name": "Crustabri",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+    },
+    {
+        "originalId": 92,
+        "name": "Fantominus",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+    },
+    {
+        "originalId": 93,
+        "name": "Spectrum",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
+    },
+    {
+        "originalId": 94,
+        "name": "Ectoplasma",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+    },
+    {
+        "originalId": 95,
+        "name": "Onix",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+    },
+    {
+        "originalId": 96,
+        "name": "Soporifik",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+    },
+    {
+        "originalId": 97,
+        "name": "Hypnomade",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+    },
+    {
+        "originalId": 98,
+        "name": "Krabby",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
+    },
+    {
+        "originalId": 99,
+        "name": "Krabboss",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+    },
+    {
+        "originalId": 100,
+        "name": "Voltorbe",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+    },
+    {
+        "originalId": 101,
+        "name": "Electrode",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+    },  
+    {
+        "originalId": 102,
+        "name": "Noeunoeuf",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+    },
+    {
+        "originalId": 103,
+        "name": "Noadkoko",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+    },
+    {
+        "originalId": 104,
+        "name": "Osselait",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+    },
+    {
+        "originalId": 105,
+        "name": "Ossatueur",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+    },
+    {
+        "originalId": 106,
+        "name": "Kicklee",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+    },
+    {
+        "originalId": 107,
+        "name": "Tygnon",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
+    },
+    {
+        "originalId": 108,
+        "name": "Excelangue",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
+    },
+    {
+        "originalId": 109,
+        "name": "Smogo",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+    },
+    {
+        "originalId": 110,
+        "name": "Smogogo",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
+    },
+    {
+        "originalId": 111,
+        "name": "Rhinocorne",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png"
+    },
+    {
+        "originalId": 112,
+        "name": "Rhinoferos",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+    },
+    {
+        "originalId": 113,
+        "name": "Leveinard",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+    },
+    {
+        "originalId": 114,
+        "name": "Saquedeneu",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+    },
+    {
+        "originalId": 115,
+        "name": "Kangourex",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+    },
+    {
+        "originalId": 116,
+        "name": "Hypotrempe",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+    },
+    {
+        "originalId": 117,
+        "name": "Hypocean",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+    },
+    {
+        "originalId": 118,
+        "name": "Poissirene",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+    },
+    {
+        "originalId": 119,
+        "name": "Poissoroy",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png"
+    },
+    {
+        "originalId": 120,
+        "name": "Stari",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
+    },
+    {
+        "originalId": 121,
+        "name": "Staross",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+    },
+    {
+        "originalId": 122,
+        "name": "M.Mime",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
+    },
+    {
+        "originalId": 123,
+        "name": "Insecateur",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+    },
+    {
+        "originalId": 124,
+        "name": "Lippoutou",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+    },
+    {
+        "originalId": 125,
+        "name": "Elektek",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
+    },
+    {
+        "originalId": 126,
+        "name": "Magmar",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+    },
+    {
+        "originalId": 127,
+        "name": "Scarabrute",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
+    },
+    {
+        "originalId": 128,
+        "name": "Tauros",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+    },
+    {
+        "originalId": 129,
+        "name": "Magicarpe",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+    },
+    {
+        "originalId": 130,
+        "name": "Leviator",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+    },
+    {
+        "originalId": 131,
+        "name": "Lokhlass",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+    },
+    {
+        "originalId": 132,
+        "name": "Métamorph",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+    },
+    {
+        "originalId": 133,
+        "name": "Évoli",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+    },
+    {
+        "originalId": 134,
+        "name": "Aquali",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+    },
+    {
+        "originalId": 135,
+        "name": "Voltali",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    },
+        {
+        "originalId": 136,
+        "name": "Pyroli",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+    },
+    {
+        "originalId": 137,
+        "name": "Porygon",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
+    },
+    {
+        "originalId": 138,
+        "name": "Armonita",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png"
+    },
+    {
+        "originalId": 139,
+        "name": "Armonistar",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
+    },
+    {
+        "originalId": 140,
+        "name": "Kabuto",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
+    },
+    {
+        "originalId": 141,
+        "name": "Kabutops",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png"
+    },
+    {
+        "originalId": 142,
+        "name": "Ptera",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
+    },
+    {
+        "originalId": 143,
+        "name": "Ronflex",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+    },
+    {
+        "originalId": 144,
+        "name": "Artikodin",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
+    },
+    {
+        "originalId": 145,
+        "name": "Elector",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+    },
+    {
+        "originalId": 146,
+        "name": "Sulfura",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png"
+    },
+    {
+        "originalId": 147,
+        "name": "Mini-draco",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+    },
+    {
+        "originalId": 148,
+        "name": "Draco",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+    },
+    {
+        "originalId": 149,
+        "name": "Dracolosse",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+    },
+    {
+        "originalId": 150,
+        "name": "Mewtwo",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
+    },
+    {
+        "originalId": 151,
+        "name": "Mew",
+        "hp": 55,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png"
+    }
+]
